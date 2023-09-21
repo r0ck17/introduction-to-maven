@@ -34,7 +34,8 @@ public class Technology {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Technology that = (Technology) o;
-        return Objects.equals(name, that.name) && Objects.equals(description, that.description);
+        return Objects.equals(name, that.name)
+               && Objects.equals(description, that.description);
     }
 
     @Override
