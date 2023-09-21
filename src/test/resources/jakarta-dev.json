@@ -1,0 +1,14 @@
+{
+  "version" : "10",
+  "description" : "Jakarta EE 10 is packed with new features for building modernized, simplified, and lightweight cloud native Java applications.",
+  "technologies" : [ {
+    "name" : "Servlet",
+    "description" : "Jakarta Servlet defines a server-side API for handling HTTP requests and responses."
+  }, {
+    "name" : "Enterprise Beans",
+    "description" : "Jakarta Enterprise Beans defines an architecture for the development and deployment of component-based business applications."
+  }, {
+    "name" : "Persistence",
+    "description" : "Jakarta Persistence defines a standard for management of persistence and object/relational mapping in Java(R) environments."
+  } ]
+}
